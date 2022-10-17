@@ -3,7 +3,7 @@
 
 개발기간 : 2021/08/02 ~ 2021/08/27
 
-Notion Link : https://nervous-stranger-60b.notion.site/Insurance-Fraud-Prediction-9a9d4408c8c64753afa16497aec26d60
+[Notion Link](https://nervous-stranger-60b.notion.site/Insurance-Fraud-Prediction-9a9d4408c8c64753afa16497aec26d60)
 
 ## 보험 사기 현황 & 프로젝트 목적
 금융감독원 자료에 따르면 2015년도 이후 보험사기 건수는 꾸준히 증가하였다. 
